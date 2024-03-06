@@ -1,7 +1,7 @@
-#Django Practise #djangoforbeginners
+# Django Practise #djangoforbeginners
 
-##Chapter 1
+## Chapter 1
 
-###Chapter 2
+### Chapter 2
 
-####chapter 3
+#### chapter 3
