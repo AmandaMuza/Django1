@@ -1,4 +1,6 @@
 # Django Practise #djangoforbeginners
+installed Vscode
+
 
 ## Chapter 1
 
